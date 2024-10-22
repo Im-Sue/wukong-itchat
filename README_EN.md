@@ -239,7 +239,7 @@ If you exit through phone, exitCallback will also be called.
 
 ## FAQ
 
-Q: How to use this package to use my wechat as an monitor?
+Q: How to use this package to use my wechat as a monitor?
 
 A: There are two ways: communicate with your own account or with filehelper.
 
@@ -251,7 +251,7 @@ A: Some account simply can't send messages to yourself, so use `filehelper` inst
 
 [LittleCoder][littlecodersh]: Structure and py2 py3 version
 
-[tempdban][tempdban]: Structure and daily maintainance
+[tempdban][tempdban]: Structure and daily maintenance
 
 [Chyroc][Chyroc]: first py3 version
 
